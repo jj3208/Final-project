@@ -13,3 +13,5 @@ The methodology includes overview of tweets over time, conducting sentiment anal
 
 The conclusion suggests that there was no clear trend in users' opinions, and the hypothesis is proved that negative opinions were more prevalent. 
 Sentiment analysis on NTLK words can provide some insights into how people describe the policy, but it is not a perfect measure of people's opinions on Twitter. 
+
+see my project notebook [here](https://github.com/jj3208/Final-project/blob/main/project%20data.ipynb)
